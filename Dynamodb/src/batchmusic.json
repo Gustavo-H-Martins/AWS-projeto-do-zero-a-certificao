@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Maverick City"},
+                  "SongTitle": {"S": "Yahweh"},
+                  "AlbumTitle": {"S": "Maverick City, Vol. 3 Pt. 2"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Maverick City"},
+                  "SongTitle": {"S": "Promisses"},
+                  "AlbumTitle": {"S": "Maverick City, Vol. 3 Pt. 2"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Maverick City"},
+                  "SongTitle": {"S": "Never Leave"},
+                  "AlbumTitle": {"S": "Maverick City, Vol. 3 Pt. 2"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        }
+      ]
+}
